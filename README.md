@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-298310164/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmonteirolima10@gmail.com)
 
-![lucslima96 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucslima96&show_icons=true&theme=merko)
+![lucslima96 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucslima96&show_icons=true&theme=chartreuse-dark)
+![lucslima96](https://github-readme-stats.vercel.app/api/top-langs/?username=lucslima96&layout=compact&langs_count=16&theme=chartreuse-dark)
 
 
 ### Minhas metas de aprendizado
