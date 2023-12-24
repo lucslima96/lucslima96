@@ -12,7 +12,7 @@ I'm Lucas, a passionate developer diving into the world of technology. Currently
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=FF4500)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=4169E1)
 
 ### Learning
